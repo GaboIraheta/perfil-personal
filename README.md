@@ -2,7 +2,7 @@
 
 ## Sobre mí
 Soy estudiante de ingeniería informática, con experiencia en desarrollo web y móvil. Me apasiona 
-el área del desarrollo, tecnologías como React, Express, Node.js, kotlin, entre otros..
+el área del desarrollo, tecnologías como React, Express, Node.js, kotlin, entre otros.....
 
 ## Cursos y certificaciones
 - Certificado de particpación en final regional ICPC 2025.
