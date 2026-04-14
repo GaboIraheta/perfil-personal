@@ -8,6 +8,7 @@ el área del desarrollo, tecnologías como React, Express, Node.js, kotlin, entr
 - Certificado de particpación en final regional ICPC 2025.
 - Tercer lugar en final regional ICPC 2025.
 - Curso de PowerBI Santander - OpenAcademy.
+- Curso de Java enfocado en Backend - Platzi
 
 ## Proyectos
 - Desarrollo de aplicación móvil: SeaShell Calculator.
